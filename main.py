@@ -16,10 +16,13 @@ def longest_run(mylist, key):
 class Result:
     """ done """
     def __init__(self, left_size, right_size, longest_size, is_entire_range):
-        self.left_size = left_size               # run on left side of input
-        self.right_size = right_size             # run on right side of input
-        self.longest_size = longest_size         # longest run in input
-        self.is_entire_range = is_entire_range   # True if the entire input matches the key
+        self.left_size = left_size              # the length of the longest run on left side of input
+                                                # eg, with a key of 12, [12 12 3] has left_size of 2 
+        self.right_size = right_size            # length of longest run on right side of input
+                                                # eg, key 12, [3 12 12] has right_size of 2
+        self.longest_size = longest_size        # length of longest run in input
+                                                # eg, [12 12 4 12 12 12]: longest_size is 3
+        self.is_entire_range = is_entire_range  # True if the entire input matches the key
         
     def __repr__(self):
         return('longest_size=%d left_size=%d right_size=%d is_entire_range=%s' %
