@@ -5,8 +5,7 @@ In this assignment, we will investigate asymptotic analysis and devise a recursi
 To complete this assignment, follow the instructions in [problemset-01.md](problemset-01.md) ([PDF version](problemset-01.pdf)). Below you'll find important and useful information about submitting your work, using git, and testing your code. 
 
 ## Turning in your work
-- You may work with a partner to complete this assignment.
-- Only one team member needs to push your completed lab to github. 
+- You must work individually to complete this assignment.
 - At the top of `main.py` and in the `answers.md` file, **include the names of both** team members.
 - Once you have pushed your final submission to GitHub, go to Canvas and submit a link to your repository to the Canvas assignment for this recitation. 
   - Submit to Canvas in group with your partner.
