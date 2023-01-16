@@ -1,5 +1,5 @@
 """
-CMPS 2200  Assignment 1.
+CMPS 6610  Assignment 1.
 See assignment-01.pdf for details.
 """
 # no imports needed.

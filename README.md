@@ -1,4 +1,4 @@
-# CMPS 2200: Problem Set 01
+# CMPS 6610: Problem Set 01
 
 In this assignment, we will investigate asymptotic analysis and devise a recursive divide and conquer algorithm for the longest run problem. 
 
