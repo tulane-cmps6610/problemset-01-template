@@ -1,8 +1,8 @@
-# CMPS 2200: Assignment 01
+# CMPS 2200: Problem Set 01
 
 In this assignment, we will investigate asymptotic analysis and devise a recursive divide and conquer algorithm for the longest run problem. 
 
-To complete this assignment, follow the instructions in [assignment-01.md](assignment-01.md) ([PDF version](assignment-01.pdf)). Below you'll find important and useful information about submitting your work, using git, and testing your code. 
+To complete this assignment, follow the instructions in [problemset-01.md](problemset-01.md) ([PDF version](problemset-01.pdf)). Below you'll find important and useful information about submitting your work, using git, and testing your code. 
 
 ## Turning in your work
 - You may work with a partner to complete this assignment.
