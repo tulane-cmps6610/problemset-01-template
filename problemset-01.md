@@ -1,4 +1,4 @@
-# CMPS 2200 Problem Set 1
+# CMPS 6610 Problem Set 1
 
 In this assignment, you will learn more about asymptotic notation, parallelism, functional languages, and algorithmic cost models. 
 
