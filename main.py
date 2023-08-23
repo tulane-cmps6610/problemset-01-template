@@ -1,6 +1,6 @@
 """
 CMPS 6610  Assignment 1.
-See problem-set-01.pdf for details.
+See problemset-01.pdf for details.
 """
 # no imports needed.
 
