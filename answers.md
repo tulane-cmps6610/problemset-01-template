@@ -32,3 +32,5 @@ Place all written answers from `assignment-01.md` here for easier grading.
   - 3d
 
   - 3e
+  
+4. **GCD**
